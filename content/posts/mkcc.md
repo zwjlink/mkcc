@@ -5,6 +5,6 @@ draft: false
 ---
 # Hello MKCC!!
 
-Welcome to  **mkcc**  blog everyone！！! My blog is deployed on [IPFS](https://ipfs.io) .
+Welcome to  **mkcc**  blog everyone！！! My blog is deployed on [IPFS](https://ipfs.io/ipfs/QmNyz2s5iGjZHF6qHdqZ2v2dLwpqnC49sRpngM3vfzruSJ/) .
 
 It was so **easy**!!
